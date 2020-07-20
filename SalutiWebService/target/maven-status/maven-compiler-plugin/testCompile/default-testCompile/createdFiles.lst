@@ -1,0 +1,4 @@
+com\xantrix\webapp\UnitTest\RepositoryTests\ArticoliRepositoryTest.class
+com\xantrix\webapp\UnitTest\ControllerTest\SelectArtTest.class
+com\xantrix\webapp\TestRestController.class
+com\xantrix\webapp\UnitTest\RepositoryTests\BarcodeRepositoryTest.class

@@ -1,0 +1,17 @@
+com\xantrix\webapp\repository\ArticoliRepository.class
+com\xantrix\webapp\controller\ArticoliController.class
+com\xantrix\webapp\exception\RestExceptionHandler.class
+com\xantrix\webapp\service\BarcodeServiceImpl.class
+com\xantrix\webapp\exception\ErrorResponse.class
+com\xantrix\webapp\service\ArticoliService.class
+com\xantrix\webapp\entity\Iva.class
+com\xantrix\webapp\controller\SalutiRestController.class
+com\xantrix\webapp\repository\BarcodeRepository.class
+com\xantrix\webapp\service\ArticoliServiceImpl.class
+com\xantrix\webapp\service\BarcodeService.class
+com\xantrix\webapp\entity\Articoli.class
+com\xantrix\webapp\entity\Barcode.class
+com\xantrix\webapp\exception\NotFoundException.class
+com\xantrix\webapp\Application.class
+com\xantrix\webapp\entity\FamAssort.class
+com\xantrix\webapp\entity\Ingredienti.class
